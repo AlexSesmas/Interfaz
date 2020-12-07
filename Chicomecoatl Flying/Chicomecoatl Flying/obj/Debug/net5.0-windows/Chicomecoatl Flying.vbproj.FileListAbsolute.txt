@@ -1,0 +1,22 @@
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\Chicomecoatl Flying.exe
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\Chicomecoatl Flying.deps.json
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\Chicomecoatl Flying.runtimeconfig.json
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\Chicomecoatl Flying.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\Chicomecoatl Flying.dll
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\ref\Chicomecoatl Flying.dll
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\bin\Debug\net5.0-windows\Chicomecoatl Flying.pdb
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.vbprojAssemblyReference.cache
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl_Flying.Form1.resources
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl_Flying.Resources.resources
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.vbproj.GenerateResource.cache
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.AssemblyInfo.vb
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.vbproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.dll
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\ref\Chicomecoatl Flying.dll
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.pdb
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl Flying.genruntimeconfig.cache
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl_Flying.Form2.resources
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl_Flying.Form3.resources
+C:\Users\usr\source\repos\Chicomecoatl Flying\Chicomecoatl Flying\obj\Debug\net5.0-windows\Chicomecoatl_Flying.Form4.resources

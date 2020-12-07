@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Chicomecoatl Flying", "Chicomecoatl Flying\Chicomecoatl Flying.vbproj", "{C8E9664D-7FCE-4568-B737-3079C7F0ACDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E9664D-7FCE-4568-B737-3079C7F0ACDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E9664D-7FCE-4568-B737-3079C7F0ACDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E9664D-7FCE-4568-B737-3079C7F0ACDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E9664D-7FCE-4568-B737-3079C7F0ACDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7939960-C622-424E-A8C0-D128E3FD108B}
+	EndGlobalSection
+EndGlobal
